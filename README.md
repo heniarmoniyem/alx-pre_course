@@ -1,2 +1,1 @@
-My First *README*
-# alx-pre_course
+This is my first *README.MD* in ALX
